@@ -10,5 +10,9 @@
    ```choco install packages.config --acceptlicense --yes```
 6. Install IIS<br/>
    ```webpicmd /Install /Products:IIS7```
-7. Install Programs that arent available in Chocoalatey
+7. Install Node Packages (NPM)
+   * Grunt CLI ```npm install -g grunt-cli```
+   * Karma CLI ```npm install -g karma-cli```
+   * Bower ```npm install -g bower```
+8. Install Programs that arent available in Chocoalatey
     * [Box Sync](https://dyknow.app.box.com/services/browse/43/box_sync_for_windows)
