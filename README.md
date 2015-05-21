@@ -4,7 +4,14 @@
     ```PS:/> Set-ExecutionPolicy Bypass```
 3. [Install Chocolatey](https://chocolatey.org/) and Programs that can be installed for all Users<br/>
     ```PS:/> & .\image.ps1```
+4. We require some additional Visual Studio Feature
+   * In **Program and Features** find **Visual Studio**
+   * **Right Click** and Choose **Change** 
+   * Select Modify
+   * Check the "Microsoft Web Developer Tools" option
+   * Click Update
 
+   
 ## Configuring Windows for DyKnow Development
 
 1. Run **Powershell** as **Administrator**
