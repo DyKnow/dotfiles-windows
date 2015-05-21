@@ -2,7 +2,7 @@
 
 1. Run **Powershell** as **Administrator**
 2. Ensure that Windows is configured to allow script execution <br/>
-    ```PS:/> Set-ExecutionPolicy RemoteSigned```
+    ```PS:/> Set-ExecutionPolicy Bypass```
 3. [Install Chocolatey](https://chocolatey.org/) <br/>
    ```iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))```
 4. Download **packages.config** from this Repository
