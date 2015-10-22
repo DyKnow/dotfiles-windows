@@ -4,3 +4,5 @@ dism /Online /Enable-Feature /All /FeatureName:IIS-WebSockets /FeatureName:IIS-A
 & 'C:\Program Files\nodejs\node.exe' 'C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js' install -g grunt-cli
 & 'C:\Program Files\nodejs\node.exe' 'C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js' install -g karma-cli
 & 'C:\Program Files\nodejs\node.exe' 'C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js' install -g bower
+git config --global merge.tool p4merge
+git config --global mergetool.keepBackup false
