@@ -1,3 +1,4 @@
+iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
 choco install packages.config --acceptlicense --yes
 webpicmd /Install /Products:IIS7
 dism /Online /Enable-Feature /All /FeatureName:IIS-WebSockets /FeatureName:IIS-ASPNET  /FeatureName:IIS-ASPNET45
