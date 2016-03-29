@@ -5,7 +5,7 @@
     ```PS:/> Set-ExecutionPolicy Bypass```
 3. Rename the Machine
 4. Join Machine to Domain
-5. Login as Domain User
+5. Login as Build Agent User
 6. Install Build Agent Tools <br/>
     ```PS:/> & .\install.ps1```
 7. We require some additional Visual Studio Feature
