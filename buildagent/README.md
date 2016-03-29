@@ -1,4 +1,4 @@
-## Configuring Windows for DyKnow Development
+## Configuring Windows for DyKnow Build Agents
 
 1. Run **Powershell** as **Administrator**
 2. Ensure that Windows is configured to allow script execution <br/>
