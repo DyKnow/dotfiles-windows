@@ -20,7 +20,7 @@
    * Click Update
 8. Install Programs that arent available in Chocoalatey
    * **Window Client (Cloud/Desktop) Requirements**
-       * AppLifeUpdate for Windows Client Updates
+       * AppLifeUpdate
    * **Window Client (Desktop) Requirements**
        * InstallSheild
        * [Visual Studio Tools for Office 4.5](https://dyknow.app.box.com/s/lxkycrwncezcj2rka5gk)
