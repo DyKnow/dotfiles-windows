@@ -23,7 +23,9 @@
        * AppLifeUpdate
        * Ruby Gem curb
             * [Download](https://curl.haxx.se/dlwiz/?type=lib&os=Win32&flav=-) and extract libcurl
-            * Run ```c:\opscode\chef\embedded\bin\gem install curb -- --with-curl-lib=C:\curl-7.40.0-devel-mingw32\bin``` --with-curl-include=C:\curl-7.40.0-devel-mingw32\include
+            * Run ```c:\opscode\chef\embedded\bin\gem install curb -- --with-curl-lib=C:\curl-7.40.0-devel-mingw32\bin --with-curl-include=C:\curl-7.40.0-devel-mingw32\include```
+       * Install Gem automan
+       * Install Gem dyknow_devops
    * **Window Client (Desktop) Requirements**
        * InstallSheild
        * [Visual Studio Tools for Office 4.5](https://dyknow.app.box.com/s/lxkycrwncezcj2rka5gk)
