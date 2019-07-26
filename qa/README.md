@@ -8,5 +8,3 @@
 5. Login as Domain User
 6. Install QA Tools <br/>
     ```PS:/> & .\install.ps1```
-7. Install Programs that arent available in Chocoalatey
-    * [Box Sync](https://dyknow.app.box.com/services/browse/43/box_sync_for_windows)
