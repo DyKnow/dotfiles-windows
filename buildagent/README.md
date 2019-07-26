@@ -28,5 +28,5 @@
        * Install Gem dyknow_devops
    * **Window Client (Desktop) Requirements**
        * InstallSheild
-       * [Visual Studio Tools for Office 4.5](https://dyknow.app.box.com/s/lxkycrwncezcj2rka5gk)
+       * Visual Studio Tools for Office 4.5
        * [Microsoft Expression Encoder 4](http://www.microsoft.com/en-us/download/details.aspx?id=27870)

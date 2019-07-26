@@ -21,10 +21,5 @@
    * Select Modify
    * Check the "Microsoft Foundation Classes for C++" option //for winmon
    * Click Update
-8. Install Programs that arent available in Chocolatey
-    * [Box Sync](https://dyknow.app.box.com/services/browse/43/box_sync_for_windows) //optional
 9. Install dependencies that aren't available in Chocolatey (all for winmon)
-    * https://dyknow.app.box.com/s/lou863s8lzaiqest32f07j43ocmlw54l
-    * https://dyknow.app.box.com/s/g2x3kfdruytupfm0an38xi1qku5l0aes
-    * https://dyknow.app.box.com/s/lxkycrwncezcj2rka5gk
     * http://www.microsoft.com/en-us/download/details.aspx?id=27870
