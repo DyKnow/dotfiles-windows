@@ -7,3 +7,5 @@ dism /Online /Enable-Feature /All /FeatureName:IIS-WebSockets /FeatureName:IIS-A
 & 'C:\Program Files\nodejs\node.exe' 'C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js' install -g bower
 git config --global merge.tool p4merge
 git config --global mergetool.keepBackup false
+git config --global difftool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
+git config --global mergetool.p4merge.path 'C:\Program Files\Perforce\p4merge.exe'
